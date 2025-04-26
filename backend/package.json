@@ -1,0 +1,15 @@
+{
+	"name": "backend",
+	"version": "1.0.0",
+	"description": "this will be my first backend project",
+	"license": "ISC",
+	"author": "adarsh tripathi",
+	"type": "module",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"dependencies": {
+		"express": "^5.1.0"
+	}
+}
